@@ -1,4 +1,8 @@
 body {
+    
+    background-image:url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgKGv-xSFTE7th1n_Y5zmHUhcTplYyiV0NhqFWR9MomsL8t1lx);
+    background-repeat:no-repeat;
+    background-size: cover;
     margin: 60px auto;
     width: 70%;
 }
@@ -25,11 +29,8 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    background-image:url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgKGv-xSFTE7th1n_Y5zmHUhcTplYyiV0NhqFWR9MomsL8t1lx);
-    background-repeat:no-repeat;
-    background-size: cover;
-    font-size:1.7em;
-    line-height: 1.6em;
+    font-size:1.5em;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
@@ -48,6 +49,7 @@ ul.posts li {
 }
 
 nav {
+    height:20%;
     background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4Hy69Uu1iO9QSYpZVWjMTcfwaGkpI7gsYN9awnthS6bwpRSDy);
     background-repeat:no-repeat;
     background-size: cover;
