@@ -25,13 +25,16 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    background-image:url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgKGv-xSFTE7th1n_Y5zmHUhcTplYyiV0NhqFWR9MomsL8t1lx);
+    background-repeat:no-repeat;
     font-size:3em;
     line-height: 2.5em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 2.5em;
+    background-color:brown;
 }
 
 ul.posts { 
@@ -41,4 +44,9 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+nav {
+    background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4Hy69Uu1iO9QSYpZVWjMTcfwaGkpI7gsYN9awnthS6bwpRSDy);
+    background-repeat:no-repeat;
 }
