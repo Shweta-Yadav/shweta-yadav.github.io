@@ -9,7 +9,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    background-color:brown;
+    
     display: inline;
     margin-right: 20px;
 }
@@ -25,7 +25,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 2em;
+    font-size:3em;
     line-height: 2.5em;
     color: #333;
 }
