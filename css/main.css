@@ -49,7 +49,8 @@ ul.posts li {
 }
 
 nav {
-    height:60%;
+    height:450px;
+    width:100%;
     background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4Hy69Uu1iO9QSYpZVWjMTcfwaGkpI7gsYN9awnthS6bwpRSDy);
     background-repeat:no-repeat;
     background-size: cover;
