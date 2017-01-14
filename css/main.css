@@ -6,6 +6,7 @@ body {
     background-size: cover;
     margin: 60px auto;
     width: 70%;
+    color:white;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -51,7 +52,7 @@ ul.posts li {
 }
 
 nav {
-    height:50px;
+    height:80px;
     
     font-size:1.5em;
     background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4Hy69Uu1iO9QSYpZVWjMTcfwaGkpI7gsYN9awnthS6bwpRSDy);
